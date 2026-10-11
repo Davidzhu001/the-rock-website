@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://davidzhu001.github.io/the-rock-website/sitemap.xml
